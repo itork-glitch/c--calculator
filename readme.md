@@ -1,8 +1,8 @@
 # How to use?
 
-`Run .exe file`\
-`Enter first and secound value`\
-`Use a comma if you want to enter a fraction`
+1. Run .exe file
+2. Enter first and secound value
+3. Use a comma if you want to enter a fraction
 
 # Requirements
 
